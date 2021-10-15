@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Maneno del teclado. Alfabetizacion digital</title>
+
+	<link rel="icon" href="./favicon.png" type="image/x-icon">
+	<link rel="stylesheet" href="./css/style.css" type="text/css">
+</head>
+	<body>
+		<div id="question">
+			<div id="progress">
+				<label for="progress" id="label-progress">(1)1/20</label>
+				<progress id="bar-progress" value="0"></progress>
+			</div>
+			<h2 id="title"></h2>
+			
+			<div id="box-info" class="box info">
+				<p id="info_description"></p>
+				<img id="exe_image" >
+			</div>
+			
+			<div class="box exercise">
+				<p id="exe_description"></p>
+				<pre class="model" id="exe_test"></pre>
+				<textarea cols="40" rows="6" id="exe_input" ></textarea>
+				<div id="block-ok"  class="hide">
+					<img id="img-ok" src="images/ok.png">
+					<button  id ="btn-next"> Siguiente >> </button>
+				</div>
+			</div>
+		</div>
+		<script src="js/questions.js"></script>
+		<script src="js/code.js"></script>
+		
+ 	</body>
+ </html>
