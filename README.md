@@ -11,9 +11,9 @@ estan en fase de desarrollo los siguiente:
 
 ## cajas de texto
 
-la idea inicial hacer un recurso para ens;ar a manejar el teclado, consiste un un area de informacion donde se explica el concepta a trabajar apoyado por una imagen, y una caja de texto donde se introduce los caracteres, cuando se hace de forma correcta nos deja continuar al siguiente ejercicio.
+La idea inicial hacer un recurso para ens;ar a manejar el teclado, consiste un un area de informacion donde se explica el concepto a trabajar apoyado por una imagen, y una caja de texto donde se introduce los caracteres, cuando se hace de forma correcta nos deja continuar al siguiente ejercicio.
 
-este recurso en su version de teclado puede verse en en funcionamiento en 
+este recurso en su version de manejo basico de teclado puede verse en en funcionamiento en  https://manolog.es/recursos_alfabetizacion/teclado1/
 
 ## test de preguntas
 

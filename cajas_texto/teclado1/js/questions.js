@@ -33,7 +33,7 @@ const questions = [
     {
         "title": "Flechas y borrar",
         "info_description": "Las flechas de direccion nos deja desplazar el cursor por el texto para añadir o eliminar caracteres sin tener que borrar todo.",
-        "exe_description": "Haz click con el raton al en el cuadro de texto y desplazate con las fechas antes de los 8 y borralos todos hasta que quede la palabra",
+        "exe_description": "Haz click con el raton al en el cuadro de texto y desplazate con las fechas antes de los 8 y borrarlos todos hasta que quede la palabra",
         "exe_test": "aprendiendo",
         "exe_input": "a8pr8endiend8o",
         "exe_image": "images/teclado-f1-del.png"
@@ -48,7 +48,7 @@ const questions = [
     },
     {
         "title": "El espacio y flechas",
-        "info_description": "Al igual que ocurria con el borrar podemos desplazar el cursor a la posicion donde necesitemos añadir un espacio.",
+        "info_description": "Al igual que ocurria con el borrar podemos desplazar el cursor con las flechas hasta la posicion donde necesitemos añadir un espacio.",
         "exe_description": "Añade los espacios a la frase para que quede de la siguiente manera:",
         "exe_test": "mejor con espacios",
         "exe_input": "mejorconespacios",
@@ -64,7 +64,7 @@ const questions = [
     },
     {
         "title": "Las MAYUSCULAS",
-        "info_description": "recuerda con una pulsacion activamos y con otra desactivamos el bloqueo de mayusculas.",
+        "info_description": "Recuerda con una pulsacion activamos y con otra desactivamos el bloqueo de mayusculas.",
         "exe_description": "Escribe la frase que aparecen a continuacion alternando mayusculas y minusculas:",
         "exe_test": "MAYUSCULAS y minusculas",
         "exe_input": "",
@@ -106,7 +106,7 @@ const questions = [
         "title": "Los numeros y comas",
         "info_description": "Los numeros en muchas ocasiones tambien se combinan con otros simbolo que hay en el teclado como el punto o la coma.",
         "exe_description": "Escribe los siguientes numeros, con punto y separados por coma y espacio",
-        "exe_test": "1.200, 80.345",
+        "exe_test": "1.200,80.345",
         "exe_input": "",
         "exe_image": "images/teclado-num-pc.png"
     },
