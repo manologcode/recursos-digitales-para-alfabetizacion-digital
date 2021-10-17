@@ -1,0 +1,107 @@
+[ 
+   {
+    "question": "TEST SOBRE INFORMATICA BASICA<br><br>Cuestiones sencillas sobre informatica y tecnología"
+    },
+   
+    {
+    "question": "Cual el icono de la nube de Google",
+    "type": "options-img",
+    "options": ["./img-question/ico-gmail.png", "./img-question/ico-google.png","./img-question/ico-drive.png"],
+    "response": 2
+    },
+
+    {
+    "question": "Escribe los siguiente caracteres @-$",
+    "response": "@-$",
+    "type": "input"
+    },   
+
+    {
+    "question": "Cuando entramos a una cuentas de gmail desde el ordenador no podemos ver los emails enviados desde el móvil",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 1
+    },
+
+    {
+    "question": "Cual de los siguientes programa sirve para enviar un correo electrónico",
+    "type": "options-img",
+    "options": ["./img-question/ico-drive.png","./img-question/ico-gmail.png", "./img-question/ico-google.png"],
+    "response": 1
+    },
+
+    {
+    "question": "Escribe los siguiente caracteres A*B=C",
+    "response": "A*B=C",
+    "type": "input"
+    },
+
+    {
+    "question": "Cual es una dirección de correo electrónico correcta",
+    "type": "options-text",
+    "options": [ "https://mail.google.com/", "hola@cartaapp.es", "pedro@gmail" ],
+    "response": 1
+    },
+
+    {
+    "question": "Cuando borramos con email de recibidos, ya no lo podemos recuperar",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 1
+    },
+
+    {
+    "question": "El programa para ver internet en el ordenador de llama navegador",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 0
+    },
+
+    {
+    "question": "¿Qué botón que hace que la ventana se ponga en pantalla completa?",
+    "type": "options-img",
+    "options":["./img-question/wind-max.png","./img-question/wind-min.png","./img-question/wind-close.png"],
+    "response": 0
+    },
+
+    {
+    "question": "El programa podemos usar para hacer un curriculum se llama procesador de textos",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 0
+    },
+
+    {
+    "question": "las direcciones de internet seguras siempre empieza por:",
+    "type": "options-text",
+    "options": [ "http://", "https://", "sergur://" ],
+    "response": 1
+    }, 
+
+    {
+    "question": "Para conectar a una red wifi necesito conocer el nombre y la contraseña de la red",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 0
+    },
+
+    {
+    "question": "Escribe los siguiente caracteres pingüino",
+    "response": "pingüino",
+    "type": "input"
+    },
+
+    {
+    "question": "¿Qué botón que hace que la ventana se cierre?",
+    "type": "options-img",
+    "options":["./img-question/wind-max.png","./img-question/wind-min.png","./img-question/wind-close.png"],
+    "response": 2
+    },
+    
+    {
+    "question": "La mejor manera de apagar un ordenador es desenchufando del enchufe.",
+    "type": "options-text",
+    "options": [ "Verdadero", "Falso"],
+    "response": 1
+    }
+]

@@ -1,0 +1,54 @@
+[ 
+    {
+    "question": "BUSCA EN INTERNET<br><br>Busca en internet y contestas las siguiente cuestiones"
+    },
+   
+    {
+    "question": "Cuántos habitantes tiene Rusia, cerca de x millones",
+    "type": "options-text",
+    "options": ["144", "167", "198"],
+    "response": 0
+    },
+      
+    {
+    "question": "Que significa Onicofagia",
+    "type": "options-text",
+    "options": ["Atracción por los espacios abiertos","Hábito compulsivo de comerse las uñas.","Compulsión por comprar"],
+    "response": 1
+    },
+
+    {
+    "question": "como se pide una cerveza en aleman",
+    "response": "ein bier",
+    "response-type": "lowercase",
+    "type": "input"
+    },  
+
+    {
+    "question": "En que año nacio el famoso físico Stephen Hawking",
+    "type": "options-text",
+    "options": ["1942","1950", "1946"],
+    "response": 0
+    },
+
+    {
+    "question": "Cual es el pais mas pequeño del mundo",
+    "type": "options-text",
+    "options": ["San Marino","Ciudad del Vaticano", "Andorra" ],
+    "response": 1
+    },
+
+    {
+    "question": "Cual es la bandera de kazajistán",
+    "type": "options-img",
+    "options":["./img-question/band-tunisia.png","./img-question/band-somalia.png","./img-question/band-kazajistan.png"],
+    "response": 2
+    }, 
+
+    {
+    "question": "Cuanto mide una milla nautica",
+    "type": "options-text",
+    "options": [ "1,852 km", "1,572 km","1,922 km"],
+    "response": 0
+    }
+]

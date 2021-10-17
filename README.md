@@ -11,17 +11,24 @@ estan en fase de desarrollo los siguiente:
 
 ## cajas de texto
 
-La idea inicial hacer un recurso para ens;ar a manejar el teclado, consiste un un area de informacion donde se explica el concepto a trabajar apoyado por una imagen, y una caja de texto donde se introduce los caracteres, cuando se hace de forma correcta nos deja continuar al siguiente ejercicio.
+La idea inicial hacer un recurso para enseñar a manejar el teclado del ordenador, consiste un un area de información donde se explica el concepto a trabajar apoyado por una imagen, y una caja de texto donde se introduce los caracteres, cuando se hace de forma correcta nos deja continuar al siguiente ejercicio.
 
-este recurso en su version de manejo basico de teclado puede verse en en funcionamiento en  https://manolog.es/recursos_alfabetizacion/teclado1/
+Este recurso en su version de manejo básico de teclado, puede verse en en funcionamiento en  https://manolog.es/recursos_alfabetizacion/teclado1/
 
 ## test de preguntas
 
 Se trata de preguntas tipo test, tipo options o tipo input donde aparecen un una lista de preguntas y al final un boton de responder donde se cuentan el numero de preguntas acertadas y falladas.
 
+de este apartado he desarrollado ya algunos ejemplos que se pueden ver aqui
+
+- [Informatica básica](https://manolog.es/recursos_alfabetizacion/preguntas/)
+- [buscar en internet 1](https://manolog.es/recursos_alfabetizacion/preguntas/?questions=preguntas_internet_1)
+- [buscar en internet 2](https://manolog.es/recursos_alfabetizacion/preguntas/?questions=preguntas_internet_2)
+
+
 ## test de informacion
 
-Se trata de realizar preguntas de (si/no) de clasificacion (bajo/medio/alto) para que el alumno responda y establecer el nivel de competencias que tiene
+Se trata de realizar preguntas de (si/no) de clasificacion (bajo/medio/alto) para que el alumno responda y establecer el nivel de competencias que tiene.
 
 # OTRAS IDEAS A DESARROLLAR
 

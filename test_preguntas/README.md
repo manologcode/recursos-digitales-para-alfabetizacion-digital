@@ -21,4 +21,16 @@ de informacion.
 - poner tiempo de respuesta
 - todas las preguntas seguidas o por pantallas
 
+## servidor python para dev
 
+   python -m SimpleHTTPServer 8080
+
+para correr la app
+
+http://localhost:8080
+
+para otras preguntas
+
+http://localhost:8080/?questions=preguntas_internet_1
+
+http://localhost:8080/?questions=preguntas_internet_2

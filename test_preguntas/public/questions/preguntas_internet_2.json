@@ -1,0 +1,58 @@
+[ 
+    {
+    "question": "BUSCA EN INTERNET<br><br>Busca en internet y contestas las siguiente cuestiones"
+    },
+   
+    {
+    "question": "Cuantos km hay de Madrid a París",
+    "type": "options-text",
+    "options": ["1276", "1325", "1422"],
+    "response": 0
+    },
+      
+    {
+    "question": "Escribe en chino tradicional Hola",
+    "response": "你好呀",
+    "type": "input"
+    },  
+
+    {
+    "question": "Cuanto se tarde en ir en bicicleta entre estos dos pueblos de Teruel (de Albarracín a Mora de Rubielos)",
+    "type": "options-text",
+    "options": ["4 horas y media", "5 horas", "8 horas"],
+    "response": 1
+    },
+
+    {
+    "question": "Quien es Satoshi Nakamoto",
+    "type": "options-img",
+    "options":["./img-question/satoshi1.png","./img-question/satoshi2.png","./img-question/satoshi3.png"],
+    "response": 0
+    }, 
+
+    {
+    "question": "Que linea de metro hay que coger para ir en Madrid de la Plaza Mayor al Estadio Santiago Bernabéu",
+    "type": "options-text",
+    "options": [ "C1", "C3/C4", "C5/C9"],
+    "response": 1
+    },
+    {
+    "question": "Pega en la casilla un icono de corazon ❤",
+    "response": "❤",
+    "type": "input"
+     },  
+
+    {
+    "question": "Cuanto se tarda en ir en bicicleta en Paris, desde Arco de Triunfo a la Torre Eiffel",
+    "type": "options-text",
+    "options":["8 min","10 min","15 min"],
+    "response": 1
+    },
+    {
+    "question": "Donde se encuentra este lugar",
+    "img": "https://live.staticflickr.com/65535/50580656206_99ec0a3586_z.jpg",
+    "type": "options-text",
+    "options": [ "Francia", "Bulgaria","Portugal"],
+    "response": 2
+    }
+]
